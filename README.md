@@ -32,7 +32,7 @@ Languages.Computer: HTML, CSS, JSON, Markdown
 
 [![Gmail](https://img.shields.io/badge/Gmail-vern.wolfley@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:vern.wolfley@gmail.com?subject=Hey!)
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 
 [<img align="left" alt="VernWolfley | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="VernWolfley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -41,6 +41,7 @@ Languages.Computer: HTML, CSS, JSON, Markdown
 [twitter]: https://twitter.com/wolfleyvern
 [instagram]: https://www.instagram.com/vwolfley/
 [linkedin]: https://www.linkedin.com/in/vern-wolfley-b8322813/
+
 
 ## 💰 You can help me by Donating
 <!--
