@@ -1,12 +1,11 @@
-# Hello World! I'm Vern 
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=vwolfley&label=Profile%20views&style=flat" alt="Profile views" />
-</p>
+# Hello World! I'm Vern
 
 ## Welcome to my page!
 
 Hello, my name is Vern Wolfley. I hold a Bachelor's degree in Biomedical Engineering and a Master's in Geographic Information Systems from Arizona State University. Currently, I work as a GIS Engineer, where I develop web applications and perform data analysis. I am passionate about using technology to disseminate information and tackle real-world problems. As a self-taught programmer, I continually seek opportunities to expand my skill set and grow professionally. I am excited about the prospect of contributing to a dynamic team where I can leverage my expertise and passion for technology.
+
+![Profile views](https://komarev.com/ghpvc/?username=vwolfley&label=Profile%20views&style=for-the-badge)
+
 
 ## Where to find me
 
