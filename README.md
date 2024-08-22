@@ -10,8 +10,10 @@ Hello, my name is Vern Wolfley. I hold a Bachelor's degree in Biomedical Enginee
 ## Where to find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vwolfley)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wolfleyvern)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/wolfleyvern)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vern-wolfley-b8322813)
+[![Stackovverflow](https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=f58025)](https://stackoverflow.com/users/1620681)
+[![Codepen](https://img.shields.io/badge/codepen-%230077B5.svg?&style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vwolfley)
 [![Gmail](https://img.shields.io/badge/Gmail-vern.wolfley@gmail.com-informational?style=for-the-badge&color=EA4335&logo=gmail&logoColor=white)](mailto:vern.wolfley@gmail.com?subject=Hey!)
 
 - 💼 Interested in working together? Reach out to me via <a href="mailto:vern.wolfley@gmail.com">email.</a>
@@ -31,15 +33,15 @@ Hello, my name is Vern Wolfley. I hold a Bachelor's degree in Biomedical Enginee
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/ "CSS3")
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/ "React")
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/ "Tailwind CSS")
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/ "Bootstrap") 
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/ "Vite")
 [![ESLint](https://img.shields.io/badge/ESLint-%4b32c3.svg?style=for-the-badge&logo=ESLint&logoColor=white)](https://eslint.org/ "ESLint")
 [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)](https://prettier.io/ "Prettier")
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/ "npm")
 [![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/ "Git")
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/ "Sass")
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/ "SQLite")
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/ "Webpack")
 [![markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/ "markdown")
 
 
