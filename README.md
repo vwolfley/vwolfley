@@ -43,19 +43,13 @@ Hello, my name is Vern Wolfley. I hold a Bachelor's degree in Biomedical Enginee
 [![markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/ "markdown")
 
 
-
-
-
-
-
-
 ## 🌟 Featured Projects
 
 
 ## 📈 My GitHub stats
   
-![vwolfley's Stats](https://github-readme-stats.vercel.app/api?username=vwolfley&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![vwolfley's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vwolfley&theme=tokyonight&hide_border=true)
+![vwolfley's Stats](https://github-readme-stats.vercel.app/api?username=vwolfley&theme=shadow_green&show_icons=true&hide_border=true&count_private=true)
+![vwolfley's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vwolfley&theme=shadow_green&hide_border=true)
 
 
 
