@@ -28,21 +28,26 @@ Hello, my name is Vern Wolfley. I hold a Bachelor's degree in Biomedical Enginee
 
 ### Some Tools I Use:
 
-[![ArcGIS API for JavaScript](https://img.shields.io/badge/ESRI-%34a845.svg?style=for-the-badge&logo=ESRI&logoColor=white)](https://developers.arcgis.com/javascript/latest/ "ArcGIS API for JavaScript")
+[![ArcGIS API for JavaScript](https://img.shields.io/badge/arcgis_api-%235864fa.svg?style=for-the-badge&logo=ESRI&logoColor=white)](https://developers.arcgis.com/javascript/latest/ "ArcGIS API for JavaScript")
+[![ArcGIS](https://img.shields.io/badge/arcgis_pro-%232C7AC3.svg?style=for-the-badge&logo=arcgis&logoColor=white)](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview/ "ArcGIS Pro")
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html5/ "HTML5")
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/ "CSS3")
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/ "React")
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/ "Sass")
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/ "Tailwind CSS")
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/ "React")
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/ "Bootstrap") 
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/ "Vite")
-[![ESLint](https://img.shields.io/badge/ESLint-%4b32c3.svg?style=for-the-badge&logo=ESLint&logoColor=white)](https://eslint.org/ "ESLint")
-[![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)](https://prettier.io/ "Prettier")
+[![Grunt](https://img.shields.io/badge/grunt-%23FAA918.svg?style=for-the-badge&logo=grunt&logoColor=black)](https://gruntjs.com/ "Grunt")
+[![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white)](https://eslint.org/ "ESLint")
+[![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=white)](https://prettier.io/ "Prettier")
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/ "npm")
-[![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/ "Git")
-[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/ "Sass")
+[![git](https://img.shields.io/badge/-Git-fca919?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/ "Git")
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/ "SQLite")
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/ "Webpack")
+[![JSON](https://img.shields.io/badge/-json-a5cb38?style=for-the-badge&logo=json&logoColor=white)](https://json.com/ "JSON")
 [![markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/ "markdown")
+[![Chart.js](https://img.shields.io/badge/-Chart.js-%23FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/ "chart.js")
+[![D3 JS](https://img.shields.io/badge/-Chart.js-%23F9A03C?style=for-the-badge&logo=chartdotjs&logoColor=black)](https://d3js.org/ "D3JS")
 
 
 ## 🌟 Featured Projects
