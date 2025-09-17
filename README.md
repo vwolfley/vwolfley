@@ -47,7 +47,9 @@ Hello, my name is Vern Wolfley. I hold a Bachelor's degree in Biomedical Enginee
 [![JSON](https://img.shields.io/badge/-json-a5cb38?style=for-the-badge&logo=json&logoColor=white)](https://json.com/ "JSON")
 [![markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/ "markdown")
 [![Chart.js](https://img.shields.io/badge/-Chart.js-%23FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/ "chart.js")
-[![D3 JS](https://img.shields.io/badge/-Chart.js-%23F9A03C?style=for-the-badge&logo=chartdotjs&logoColor=black)](https://d3js.org/ "D3JS")
+[![D3 JS](https://img.shields.io/badge/-D3-%23F9A03C?style=for-the-badge&logo=d3&logoColor=black)](https://d3js.org/ "D3JS")
+[![MongoDB](https://img.shields.io/badge/-MongoDB-%47a248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![KendoReact](https://img.shields.io/badge/-KendoReact-%5ce500?style=for-the-badge&logo=telerik&logoColor=white)](https://www.telerik.com/kendo-react-ui)
 
 
 ## 🌟 Featured Projects
